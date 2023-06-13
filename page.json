@@ -1,32 +1,22 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Ayşe Aker Tütüncü",
+  "description": "Full-Stack Developer",
+  "image_url": "https://raw.githubusercontent.com/AyseAkr/my-links/main/ayse.jpg",
   "links": [
     {
-      "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
-      "icon": "instagram"
-    },
-    {
-      "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
-      "icon": "twitter"
-    },
-    {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/ayseakr",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/AyseAkr",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
+      "title": "CV",
+      "url": "https://drive.google.com/file/d/1I12z0JVL0Z-l0brLSBv1wWCWFUjYRe4i/view?usp=sharing",
+      "icon": "document"
     }
   ]
 }
