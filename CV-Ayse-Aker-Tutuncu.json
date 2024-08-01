@@ -1,549 +1,633 @@
 {
-    "basics": {
-        "name": "Ayşe Aker Tütüncü",
-        "email": "akerayse@gmail.com",
-        "phone": "",
-        "photo": {
-            "url": "https://cdn.rxresu.me/uploads/71451/392599/1676993702531.jpg",
-            "filters": {
-                "size": 128,
-                "shape": "circle",
-                "border": true,
-                "grayscale": false
-            },
-            "visible": true
-        },
-        "summary": "Hi, I'm Ayse, a Full-Stack Developer based in Amsterdam. I graduated from software engineering and carried out my professional carrier as a business analyst and technical product manager. I worked with banks and fintech companies, improving my skills in understanding client needs, creating a scope of work in agreement with the client. After moving to Amsterdam, I decided to go back to my software engineering roots and pursue my carrier as a full stack Java developer. Now, I am eagerly anticipating the opportunity to utilize these skills on my journey as a developer.  Outside of work, I enjoy traveling, cooking, and listening to music.",
-        "website": "links.dev/ayse",
-        "headline": "Full-Stack Developer",
-        "location": {
-            "city": "Amsterdam",
-            "region": "",
-            "address": "",
-            "country": "Netherlands",
-            "postalCode": ""
-        },
-        "profiles": [
-            {
-                "id": "026c0683-7b4e-4f5f-88dd-a8dc0e9b6229",
-                "url": "https://linkedin.com/in/ayseakr",
-                "network": "LinkedIn",
-                "username": "linkedin.com/in/ayseakr"
-            },
-            {
-                "id": "e7328e2f-9778-4ddd-b09a-c2fedffe38f2",
-                "url": "https://github.com/AyseAkr",
-                "network": "GitHub",
-                "username": "github.com/AyseAkr"
-            }
-        ],
-        "birthdate": ""
+  "basics": {
+    "name": "Ayşe Aker Tütüncü",
+    "headline": "Full-Stack Developer",
+    "email": "akerayse@gmail.com",
+    "phone": "",
+    "location": "Utrecht, Netherlands",
+    "url": {
+      "label": "",
+      "href": ""
     },
-    "sections": {
-        "work": {
-            "id": "work",
-            "name": "Work Experience",
-            "type": "basic",
-            "items": [
-                {
-                    "id": "cdd56286-dbf4-4e29-a6d8-09b273f62e6a",
-                    "url": "",
-                    "date": {
-                        "end": "2023-04-01",
-                        "start": "2021-09-01"
-                    },
-                    "name": "1. DgPays - dgpays.com",
-                    "summary": "* Gather client requirements, write scope documents, and collaborate with IT, analysis, and software teams\n* Own and manage Direct Carrier Billing (DCB) and Insurance API Gateway products\n* DCB responsibilities include integrating with mobile operators, transaction processing, reconciliation, fraud/risk analysis, and merchant onboarding\n* Deeply involved in DCB analysis and testing processes\n* Insurance product integration with Türkiye Sigorta and management of DASK, traffic and vehicle insurances, offer and policy creation and management, cancellations, request management, and integration with PTT.",
-                    "position": "Technical Product Manager"
-                },
-                {
-                    "id": "904761c5-b909-4d0f-882f-61d65532882e",
-                    "url": "",
-                    "date": {
-                        "end": "2021-09-01",
-                        "start": "2020-11-01"
-                    },
-                    "name": "2. Intertech - intertech.com.tr",
-                    "summary": "* Worked in the ATM team\n* Involved in planning, analysis, and testing of ATM functions for multiple banks such as Denizbank, HSBC, OdeaBank, and PTT\n* Contributed to the common ATM project to handle functional requirements\n* Participated in method analysis and process planning for the first-ever private bank common ATM integration with Denizbank\n* Analyzed a project to improve consensus processes and help operation teams detect issues in master accounts or ATM cassette counters\n* Worked on a customer feedback project that enabled customers to give feedback directly at the ATM in case of hardware malfunction, with the aim of improving customer satisfaction\n* Analyzed and tested Denizbank's credit card bill payments with QR.",
-                    "position": "Senior Business Analyst"
-                }
-            ],
-            "columns": 1,
-            "visible": true
+    "customFields": [],
+    "picture": {
+      "url": "https://storage.rxresu.me/clp9fuk6v21wa9hunlxiojk0a/pictures/clp9kr5z8096uqo5qk10g7ose.jpg",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p style=\"text-align: justify\">Hi, I'm Ayse, a Full-Stack Developer based in Utrecht. I graduated from software engineering and carried out my professional career as a business analyst and technical product manager. I worked with banks and fintech companies, improving my skills in understanding client needs, creating a scope of work in agreement with the client. After moving to the Netherlands, I decided to go back to my software engineering roots and pursue my career as a developer. Now, I am working in BNIT as a full-stack Java developer, via SALT.  Outside of work, I enjoy travelling, cooking, painting and listening to music.</p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": [
+        {
+          "id": "ix5a55wwr0wst90z1q4ijakw",
+          "visible": true,
+          "name": "Full-Stack Java Bootcamp",
+          "issuer": "SALT",
+          "date": "May 2023 - July 2023",
+          "summary": "<p style=\"text-align: justify\">Intensive three month training program for full stack web development with a focus on TDD, mob programming, and applied learning</p>",
+          "url": {
+            "label": "",
+            "href": "https://salt.dev"
+          }
         },
-        "awards": {
-            "id": "awards",
-            "name": "Awards",
-            "type": "basic",
-            "items": [],
-            "columns": 2,
-            "visible": false
+        {
+          "id": "fya9oaix5z12s5indgj2hp5s",
+          "visible": true,
+          "name": "EMV",
+          "issuer": "BKM",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
         },
-        "skills": {
-            "id": "skills",
-            "name": "Skills",
-            "type": "basic",
-            "items": [
-                {
-                    "id": "569e80f6-a58a-40d4-9716-30d2a2c476cf",
-                    "name": "Java",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 7
-                },
-                {
-                    "id": "52b14336-1c4f-4b0b-a3a9-2b2dcbef5789",
-                    "name": "HTTP/REST API",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 7
-                },
-                {
-                    "id": "9b95bed4-6dfd-4b1d-bf6f-5155d21316ec",
-                    "name": "JUnit",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "d020ec24-6d98-44b7-8d18-091aaae89761",
-                    "name": "SQL",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 8
-                },
-                {
-                    "id": "af8c8d07-1f9b-4612-9d30-3897a0e90a73",
-                    "name": "HTML",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 6
-                },
-                {
-                    "id": "e629b23e-bf50-4a06-8640-6cc4adaeeea4",
-                    "name": "CSS",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 4
-                },
-                {
-                    "id": "2e26a202-4eb4-42c4-aa01-b809cc86a6fe",
-                    "name": "JavaScript",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 2
-                },
-                {
-                    "id": "5b3cdd02-e506-494f-b474-09e66f5fe562",
-                    "name": "TypeScript",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 2
-                },
-                {
-                    "id": "7d1e2b70-1a0b-4393-b04e-5ced8b3c597d",
-                    "name": "React",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 2
-                },
-                {
-                    "id": "98443926-7c62-4c77-a3bd-17423cfa81b5",
-                    "name": "Mocha",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 3
-                },
-                {
-                    "id": "d82437e0-16f0-4fce-ac6f-d777cd73d754",
-                    "name": "git",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "36b06752-cb31-4b7d-848c-56ff6c4ac5fc",
-                    "name": "Docker",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 2
-                },
-                {
-                    "id": "85a18c7f-5506-46e3-bd5e-41f1c9f5a1ff",
-                    "name": "Agile/SCRUM",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 10
-                },
-                {
-                    "id": "f88edd49-a38d-430b-8ae3-8a48f468b6eb",
-                    "name": "TDD",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "bf1cf897-cbfd-4cc0-aed1-3f2fc9b40d4b",
-                    "name": "MS Office",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "26a310c9-1e6b-4fd5-ad80-5194560e2e4f",
-                    "name": "MS Visio",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 5
-                },
-                {
-                    "id": "184fe7c8-14ce-46bc-81a0-6a5d3dc89ebd",
-                    "name": "Android",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 1
-                },
-                {
-                    "id": "e478030b-369f-485d-9df9-1daa147efdac",
-                    "name": "Python",
-                    "level": "",
-                    "keywords": [],
-                    "levelNum": 1
-                }
-            ],
-            "columns": 2,
-            "visible": true
+        {
+          "id": "d55al36sax1k6ne3yw3t5rzq",
+          "visible": true,
+          "name": "Test & Certification Processes",
+          "issuer": "BKM",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
         },
-        "work-2": {
-            "name": "Work Experience",
-            "type": "work",
-            "items": [
-                {
-                    "id": "e5e58bbf-ebd0-41f9-9c1d-1ee8102685a0",
-                    "url": "",
-                    "date": {
-                        "end": "2020-11-01",
-                        "start": "2018-12-01"
-                    },
-                    "name": "3. Turkish Economy Bank - teb.com.tr",
-                    "summary": "* Worked in the ATM team\n* Contributed to the completion and deployment of all processes for the new ATM software\n* Conducted device tests with Maestro at XFS layer\n* Worked on testing ATM consensus processes and supply flows\n* Performed NCR kernel certification tests for MasterCard and VISA\n* Conducted general function tests, including cash withdrawal/deposit, credit card, and Notonus flows\n* Analyzed journal data and ATM operation logs at back-office screens to deliver meaningful data to operation teams\n* Worked on the analysis of refunds, including when and how they should be made and the acceleration of in-advance refunds to improve customer satisfaction.",
-                    "position": "Business Analyst"
-                },
-                {
-                    "id": "8ce7ab8a-4d4a-46ee-9bfd-cf27edc234f0",
-                    "url": "",
-                    "date": {
-                        "end": "2018-12-01",
-                        "start": "2017-01-01"
-                    },
-                    "name": "4. OBSS - obss.tech",
-                    "summary": "* Consultant at Turkish Economy Bank (TEB) in the ATM team\n* Involved in the Aquila Tucana project, testing withdrawing, depositing, credit card flows, login processes with hand vein tracking, and billing transactions\n* Participated in the analysis and testing of the monitoring screen and identification of the ATM terminal on back-office screens\n* Created receipt templates for customers at compass and self-service applications\n* Prepared analysis documents related to Bantaş OMS screens for improvements and new requests resulting from joint meetings with Asset Management, ATM ops, and Bantaş teams\n* Participated in the new infrastructure project (Wincor) tests of the Optimus project\n* Worked on testing many flows such as withdrawal cash advances, installment cash advance, sending withdrawing money from TEB, credit card functions, accounts, and one number update.",
-                    "position": "Business Analyst"
-                },
-                {
-                    "id": "4d264e28-2566-49cb-9c2c-43d91e7f45fd",
-                    "url": "",
-                    "date": {
-                        "end": "2016-04-01",
-                        "start": "2015-12-01"
-                    },
-                    "name": "5. BankPozitif - bankpozitif.com.tr",
-                    "summary": "* Worked part-time\n* Prepared analysis documents with Barış Makal\n* Created process diagrams using Microsoft Visio to clarify all banking processes\n* Tested the mobile banking app\n* Created process diagrams on Visio for the software testing team to facilitate testing.",
-                    "position": "Business Analyst"
-                }
-            ],
-            "columns": 1,
+        {
+          "id": "hod8b7mjnfobxz13tyzcmkc3",
+          "visible": true,
+          "name": "Gamified Agile/SCRUM",
+          "issuer": "ACM",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "elz0z90osaec41n968jnlqin",
+          "visible": true,
+          "name": "Client Needs & Software Requirements",
+          "issuer": "Udacity",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "oie22q2l2g60cm3fnefg4ebv",
+          "visible": true,
+          "name": "Java & Android",
+          "issuer": "BilgeAdam",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "zjw5hx0u629ezjxj21e0xn5c",
+          "visible": true,
+          "institution": "Bahçeşehir University - Executive MBA - Master's Degree",
+          "studyType": "",
+          "area": "",
+          "score": "",
+          "date": "October 2021 - February 2023",
+          "summary": "Completed the business administration for executives program to improve management skills",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "p9be3xe39gkupq2qdnbsy3mp",
+          "visible": true,
+          "institution": "Kristianstad University - Computer Science - Exchange Program",
+          "studyType": "",
+          "area": "",
+          "score": "",
+          "date": "October 2013 - September 2014",
+          "summary": "Studied for a year in Sweeden with Erasmus exchange program, learned Android development using Greenfoot",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "fgpvotp2xq0cl2iwkqvdjm88",
+          "visible": true,
+          "institution": "Istanbul Aydın University - Software Engineering - Bachelor's Degree",
+          "studyType": "",
+          "area": "",
+          "score": "",
+          "date": "September 2011 - June 2016",
+          "summary": "Acquired theoretical and practical knowledge of computer science and software engineering, was vice president of IEEE student club, completed multiple projects and internships",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Work Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "hqthzzw404zsja7q4ntpsow8",
+          "visible": true,
+          "company": "SALT - Full-Stack Java Developer",
+          "position": "https://salt.dev",
+          "location": "Amsterdam, Netherlands",
+          "date": "September 2023 - Present",
+          "summary": "<p style=\"text-align: justify\">Consultant at BNIT</p><ul><li><p style=\"text-align: justify\">Involved in development and also testing, DevOps, and architectural decision-making processes</p></li><li><p style=\"text-align: justify\">Working on healthcare systems, building a portal for patients and doctors</p></li><li><p style=\"text-align: justify\">For backend; Java, Spring Boot, Spring Security, MySQL, JUnit, Testcontainers</p></li><li><p style=\"text-align: justify\">For frontend; React, Typescript, Material UI components, Vite</p></li><li><p style=\"text-align: justify\">DevOps; Azure Cloud, Azure DevOps, CI/CD pipelines, Docker</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "wrj8xdt1f0qjqbrnpafvb7ig",
+          "visible": true,
+          "company": "DgPays - Technical Product Manager",
+          "position": "https://dgpays.com",
+          "location": "Istanbul, Turkey",
+          "date": "September 2021 - April 2023",
+          "summary": "<ul><li><p style=\"text-align: justify\">Gather client requirements, write scope documents, and collaborate with IT, analysis, and software teams</p></li><li><p style=\"text-align: justify\">Own and manage Direct Carrier Billing (DCB) and Insurance API Gateway products</p></li><li><p style=\"text-align: justify\">DCB responsibilities include integrating with mobile operators, transaction processing, reconciliation, fraud/risk analysis, and merchant onboarding</p></li><li><p style=\"text-align: justify\">Deeply involved in DCB analysis and testing processes</p></li><li><p style=\"text-align: justify\">Insurance product integration with Türkiye Sigorta and management of DASK, traffic and vehicle insurances, offer and policy creation and management, cancellations, request management, and integration with PTT.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "nk237jv6mwjix9sovnd1g4r1",
+          "visible": true,
+          "company": "Intertech - Senior Business Analyst",
+          "position": "https://intertech.com.tr",
+          "location": "Istanbul, Turkey",
+          "date": "November 2020 - September 2021",
+          "summary": "<p style=\"text-align: justify\">Worked in the ATM team</p><ul><li><p style=\"text-align: justify\">Involved in planning, analysis, and testing of ATM functions for multiple banks such as Denizbank, HSBC, OdeaBank, and PTT</p></li><li><p style=\"text-align: justify\">Contributed to the common ATM project to handle functional requirements</p></li><li><p style=\"text-align: justify\">Participated in method analysis and process planning for the first-ever private bank common ATM integration with Denizbank</p></li><li><p style=\"text-align: justify\">Analyzed a project to improve consensus processes and help operation teams detect issues in master accounts or ATM cassette counters</p></li><li><p style=\"text-align: justify\">Worked on a customer feedback project that enabled customers to give feedback directly at the ATM in case of hardware malfunction, with the aim of improving customer satisfaction</p></li><li><p style=\"text-align: justify\">Analyzed and tested Denizbank's credit card bill payments with QR.</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "ks27edqh0vs5f0rsi759t839",
+          "visible": true,
+          "organization": "IEEE İstanbul Aydın University",
+          "position": "Vice president of IEEE student club",
+          "location": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ivjngqs6zhzsayofosswiv3r",
+          "visible": true,
+          "organization": "Düşün Taşın Derneği",
+          "position": "Non-profit organization",
+          "location": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "r6rx8bis58m5lpnlsjx5lik3",
+          "visible": true,
+          "name": "Turkish",
+          "description": "Native",
+          "level": 0
+        },
+        {
+          "id": "ke6663xbv09soyngdl5kjlhp",
+          "visible": true,
+          "name": "English",
+          "description": "Professional",
+          "level": 0
+        }
+      ]
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "s45bmggh4g70bvw8e8dbtetc",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "linkedin.com/in/ayseakr",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://linkedin.com/in/ayseakr"
+          }
+        },
+        {
+          "id": "c1huidokzpxj26bfil3qc2mk",
+          "visible": true,
+          "network": "GitHub",
+          "username": "github.com/AyseAkr",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/AyseAkr"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "kdd1rfesiaghgh1o8382hx9a",
+          "visible": true,
+          "name": "stor-E",
+          "description": "AI Powered Interactive Children Story Book Generator",
+          "date": "July 2023",
+          "summary": "<p style=\"text-align: justify\">This application generates a story book for children, based on their selections. It uses OpenAI APIs to generate story texts and images. It is written in Java and Typescript. It uses Spring Framework on backend and React on frontend.</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": "https://github.com/ascendio-stor-E"
+          }
+        },
+        {
+          "id": "recyvjdygws07qxijjil597u",
+          "visible": true,
+          "name": "International Karate Game",
+          "description": "Term Project from Kristianstad University",
+          "date": "",
+          "summary": "I developed it using Greenfoot.",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "igwgypr5sdorflxym5izvr1s",
+          "visible": true,
+          "name": "INR Tracking Application",
+          "description": "Term Project from İstanbul Aydın University Junior Year",
+          "date": "",
+          "summary": "It is an application to monitor blood values of a patient. It allows navigating to the nearest hospital and calling for help in case of emergencies.",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "axr7tkrche3oc2f2mn61k5af",
+          "visible": true,
+          "name": "Smart Home & Office",
+          "description": "Final Project from İstanbul Aydın University",
+          "date": "",
+          "summary": "It is a mobile application. It lets you control the lights and power, get notified when there is an outage or danger, locking/unlocking the doors. It utilizes NFC tags placed in your home and office.",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 5,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "idwti8o0oq2dtyxedfz0qyoy",
+          "visible": true,
+          "name": "Java 17",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "ezx1lnrt1daqf8hdhb20gf1o",
+          "visible": true,
+          "name": "HTTP/REST APIs",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "dz6o4e2pjufbsh5fnk2dback",
+          "visible": true,
+          "name": "JUnit",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "nhjgrg2l10qx1zj5eaqnd8lt",
+          "visible": true,
+          "name": "SQL",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "debj0cu9rcczvinh68jmymnp",
+          "visible": true,
+          "name": "HTML",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "cej0j6dvqvtbihx078gllu2z",
+          "visible": true,
+          "name": "CSS",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "tkh82kfzbef1uhk5rxb1vpso",
+          "visible": true,
+          "name": "JavaScript/TypeScript",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "rps8331vxk0z51psch5hotfh",
+          "visible": true,
+          "name": "React",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "ah97covjjj6bgktfy15rmoke",
+          "visible": true,
+          "name": "git",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "uexez1f7c86g3zx9mk7ggj4l",
+          "visible": true,
+          "name": "Docker",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "y224c5jxxihh6392riilbms4",
+          "visible": true,
+          "name": "Agile/SCRUM",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "lnnh2bv5udzr78uk85hsj2zw",
+          "visible": true,
+          "name": "TDD",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "p8mzw4vhg2znjwpf23wes2o1",
+          "visible": true,
+          "name": "CI/CD",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "jw0i286jru2wwkumzv9u5vgy",
+          "visible": true,
+          "name": "Azure",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "xw49ujdwwqksnii7eyprzfeo",
+          "visible": true,
+          "name": "Figma",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {
+      "g5l6mw0lkv3bviowfjpm6lll": {
+        "name": "Work Experience",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "g5l6mw0lkv3bviowfjpm6lll",
+        "items": [
+          {
+            "id": "rqn7qg0gn665v3hwmlwxg3q1",
             "visible": true,
-            "isDuplicated": true
-        },
-        "projects": {
-            "id": "projects",
-            "name": "Personal Projects",
-            "type": "basic",
-            "items": [
-                {
-                    "id": "c9e86f0c-7672-4dcc-ab7f-4c56d39775e4",
-                    "url": "",
-                    "date": {
-                        "end": "",
-                        "start": ""
-                    },
-                    "name": "International Karate Game",
-                    "summary": "I developed it using Greenfoot.",
-                    "keywords": [],
-                    "description": "Term Project from Kristianstad University"
-                },
-                {
-                    "id": "94a28c3f-5f8c-4013-85ec-bc4328bf945a",
-                    "url": "",
-                    "date": {
-                        "end": "",
-                        "start": ""
-                    },
-                    "name": "INR Tracking Application",
-                    "summary": "It is an application to monitor blood values of a patient. It allows navigating to the nearest hospital and calling for help in case of emergencies.",
-                    "keywords": [],
-                    "description": "Term Project from İstanbul Aydın University Junior Year"
-                },
-                {
-                    "id": "7f02bbc4-f36c-47d7-a55a-b6e4f9dbbf78",
-                    "url": "",
-                    "date": {
-                        "end": "",
-                        "start": ""
-                    },
-                    "name": "Smart Home & Office",
-                    "summary": "It is a mobile application. It lets you control the lights and power, get notified when there is an outage or danger, locking/unlocking the doors. It utilizes NFC tags placed in your home and office.",
-                    "keywords": [],
-                    "description": "Final Project from İstanbul Aydın University"
-                }
-            ],
-            "columns": 1,
-            "visible": true
-        },
-        "education": {
-            "id": "education",
-            "name": "Education & Training",
-            "type": "basic",
-            "items": [
-                {
-                    "id": "fe93100e-adf2-4ee0-9402-36f0fca24bc7",
-                    "url": "",
-                    "area": "",
-                    "date": {
-                        "end": "",
-                        "start": "2023-05-01"
-                    },
-                    "score": "",
-                    "degree": "Full-Stack Java Developer",
-                    "courses": [],
-                    "summary": "Intensive three month training program for full stack web development with a focus on TDD, mob programming, and applied learning",
-                    "institution": "School of Applied Technology </salt>"
-                },
-                {
-                    "id": "1fa551c9-3b14-4a31-8440-5112c1f76f1d",
-                    "url": "",
-                    "area": "Executive MBA",
-                    "date": {
-                        "end": "2023-02-01",
-                        "start": "2021-10-01"
-                    },
-                    "score": "",
-                    "degree": "Master's Degree",
-                    "courses": [],
-                    "summary": "Completed the business administration for executives program to improve management skills",
-                    "institution": "Bahçeşehir University"
-                },
-                {
-                    "id": "54ba3ee6-a47e-4929-bedb-bf9ff66327a1",
-                    "url": "",
-                    "area": "Computer Science",
-                    "date": {
-                        "end": "2014-09-01",
-                        "start": "2013-10-01"
-                    },
-                    "score": "",
-                    "degree": "Exchange Program",
-                    "courses": [],
-                    "summary": "Studied for a year in Sweeden with Erasmus exchange program, learned Android development using Greenfoot",
-                    "institution": "Kristianstad University"
-                },
-                {
-                    "id": "523fb973-283d-420a-a6c9-f13226672646",
-                    "url": "",
-                    "area": "Software Engineering",
-                    "date": {
-                        "end": "2016-06-01",
-                        "start": "2011-09-01"
-                    },
-                    "score": "",
-                    "degree": "Bachelor's Degree",
-                    "courses": [],
-                    "summary": "Acquired theoretical and practical knowledge of computer science and software engineering, was vice president of IEEE student club, completed multiple projects and internships",
-                    "institution": "İstanbul Aydın University"
-                }
-            ],
-            "columns": 2,
-            "visible": true
-        },
-        "interests": {
-            "id": "interests",
-            "name": "Interests",
-            "type": "basic",
-            "items": [],
-            "columns": 2,
-            "visible": false
-        },
-        "languages": {
-            "id": "languages",
-            "name": "Languages",
-            "type": "basic",
-            "items": [
-                {
-                    "id": "ca0d5193-14cb-4daa-b287-48d7bc125c51",
-                    "name": "Turkish",
-                    "level": "Native",
-                    "levelNum": 0
-                },
-                {
-                    "id": "29e9bca8-51d5-42c4-929b-c233db246ddc",
-                    "name": "English",
-                    "level": "Professional",
-                    "levelNum": 0
-                }
-            ],
-            "columns": 2,
-            "visible": true
-        },
-        "volunteer": {
-            "id": "volunteer",
-            "name": "Volunteer Experience",
-            "type": "basic",
-            "items": [
-                {
-                    "id": "9f240af5-1e85-479d-ab7b-f21c3cf9e186",
-                    "url": "",
-                    "date": {
-                        "end": "",
-                        "start": ""
-                    },
-                    "summary": "",
-                    "position": "Vice president of IEEE student club",
-                    "organization": "IEEE İstanbul Aydın University"
-                },
-                {
-                    "id": "a61eb1cf-82c8-4c97-9159-556429199c67",
-                    "url": "",
-                    "date": {
-                        "end": "",
-                        "start": ""
-                    },
-                    "summary": "",
-                    "position": "Non-profit organization",
-                    "organization": "Düşün Taşın Derneği"
-                }
-            ],
-            "columns": 1,
-            "visible": true
-        },
-        "references": {
-            "id": "references",
-            "name": "References",
-            "type": "basic",
-            "items": [],
-            "columns": 2,
-            "visible": false
-        },
-        "publications": {
-            "id": "publications",
-            "name": "Articles",
-            "type": "basic",
-            "items": [],
-            "columns": 2,
-            "visible": false
-        },
-        "certifications": {
-            "id": "certifications",
-            "name": "Trainings",
-            "type": "basic",
-            "items": [
-                {
-                    "id": "eb1bcbfe-9f28-4a40-83ae-58ead0a0974f",
-                    "url": "",
-                    "date": "",
-                    "name": "EMV",
-                    "issuer": "BKM",
-                    "summary": ""
-                },
-                {
-                    "id": "76009100-6c43-4db8-b314-6a9e2cfe86b2",
-                    "url": "",
-                    "date": "",
-                    "name": "Test & Certification Processes",
-                    "issuer": "BKM",
-                    "summary": ""
-                },
-                {
-                    "id": "eb7e53fe-d545-4b8d-ab41-74a206e33a94",
-                    "url": "",
-                    "date": "",
-                    "name": "Gamified Agile/SCRUM",
-                    "issuer": "ACM",
-                    "summary": ""
-                },
-                {
-                    "id": "77fbbf46-89d0-4e7d-9b06-a2afd480681b",
-                    "url": "",
-                    "date": "",
-                    "name": "Client Needs & Software Requirements",
-                    "issuer": "Udacity",
-                    "summary": ""
-                },
-                {
-                    "id": "c6449090-6db1-44d0-bc2b-56dbd86618b9",
-                    "url": "",
-                    "date": "",
-                    "name": "Java & Android",
-                    "issuer": "BilgeAdam",
-                    "summary": ""
-                }
-            ],
-            "columns": 1,
-            "visible": true
-        }
-    },
-    "metadata": {
-        "css": {
-            "value": "/* Title */\nh1 {\n    font-size: 24px !important;\n}\n\n/* Subtitle */\n.mt-1 {\n    font-size: 16px !important;\n}\n\n/* Info box */\n.border-2 {\n    border-width: 0px;\n}\n\n/* Info box content */\n.p-4 {\n    padding: 8px;\n}\n\n/* Content titles */\n.font-semibold {\n    font-size: small;\n}\n\n/* Content subtitles */\nspan.opacity-75 {\n    margin-top: 6px;\n    font-style: italic;\n}\n\n/* Dates */\ndiv.opacity-50 {\n    font-size: smaller;\n}",
-            "visible": true
-        },
-        "date": {
-            "format": "MMM YYYY"
-        },
-        "theme": {
-            "text": "#000000",
-            "primary": "#673ab7",
-            "background": "#ffffff"
-        },
-        "layout": [
-            [
-                [
-                    "education",
-                    "work"
-                ],
-                [
-                    "skills",
-                    "languages",
-                    "awards",
-                    "interests",
-                    "references"
-                ]
-            ],
-            [
-                [
-                    "work-2"
-                ],
-                [
-                    "certifications",
-                    "projects",
-                    "volunteer",
-                    "publications"
-                ]
-            ]
-        ],
-        "locale": "en",
-        "language": "en",
-        "template": "glalie",
-        "typography": {
-            "size": {
-                "body": 12,
-                "heading": 32
-            },
-            "family": {
-                "body": "Ubuntu",
-                "heading": "Ubuntu"
+            "name": "Turkish Economy Bank - Business Analyst",
+            "description": "https://teb.com.tr",
+            "date": "December 2018 - November 2020",
+            "location": "Istanbul, Turkey",
+            "summary": "<p style=\"text-align: justify\">Worked in the ATM team</p><ul><li><p style=\"text-align: justify\">Contributed to the completion and deployment of all processes for the new ATM software</p></li><li><p style=\"text-align: justify\">Conducted device tests with Maestro at XFS layer</p></li><li><p style=\"text-align: justify\">Worked on testing ATM consensus processes and supply flows</p></li><li><p style=\"text-align: justify\">Performed NCR kernel certification tests for MasterCard and VISA</p></li><li><p style=\"text-align: justify\">Conducted general function tests, including cash withdrawal/deposit, credit card, and Notonus flows</p></li><li><p style=\"text-align: justify\">Analyzed journal data and ATM operation logs at back-office screens to deliver meaningful data to operation teams</p></li><li><p style=\"text-align: justify\">Worked on the analysis of refunds, including when and how they should be made and the acceleration of in-advance refunds to improve customer satisfaction.</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
             }
-        }
+          },
+          {
+            "id": "jiri6fmrwryjfrhvmtsh5410",
+            "visible": true,
+            "name": "OBSS - Business Analyst",
+            "description": "https://obss.tech",
+            "date": "January 2017 - December 2018",
+            "location": "Istanbul, Turkey",
+            "summary": "<p style=\"text-align: justify\">Consultant at Turkish Economy Bank (TEB) in the ATM team</p><ul><li><p>Involved in the Aquila Tucana project, testing withdrawing, depositing, credit card flows, login processes with hand vein tracking, and billing transactions</p></li><li><p>Participated in the analysis and testing of the monitoring screen and identification of the ATM terminal on back-office screens</p></li><li><p>Created receipt templates for customers at compass and self-service applications</p></li><li><p>Prepared analysis documents related to Bantaş OMS screens for improvements and new requests resulting from joint meetings with Asset Management, ATM ops, and Bantaş teams</p></li><li><p>Participated in the new infrastructure project (Wincor) tests of the Optimus project</p></li><li><p>Worked on testing many flows such as withdrawal cash advances, installment cash advance, sending withdrawing money from TEB, credit card functions, accounts, and one number update.</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "template": "onyx",
+    "layout": [
+      [
+        [
+          "summary",
+          "profiles",
+          "experience",
+          "references"
+        ],
+        [
+          "interests",
+          "awards",
+          "publications"
+        ]
+      ],
+      [
+        [
+          "custom.g5l6mw0lkv3bviowfjpm6lll",
+          "education",
+          "skills"
+        ],
+        []
+      ],
+      [
+        [
+          "projects",
+          "volunteer",
+          "certifications",
+          "languages"
+        ],
+        []
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
     },
-    "public": false
+    "page": {
+      "margin": 18,
+      "format": "a4",
+      "options": {
+        "breakLine": false,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#dc2626"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
 }
