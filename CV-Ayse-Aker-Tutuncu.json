@@ -185,7 +185,7 @@
           "position": "https://salt.dev",
           "location": "Amsterdam, Netherlands",
           "date": "September 2023 - Present",
-          "summary": "<p style=\"text-align: justify\">Consultant at BNIT</p><ul><li><p style=\"text-align: justify\">Involved in development and also testing, DevOps, and architectural decision-making processes</p></li><li><p style=\"text-align: justify\">Working on healthcare systems, building a portal for patients and doctors</p></li><li><p style=\"text-align: justify\">For backend; Java, Spring Boot, Spring Security, MySQL, JUnit, Testcontainers</p></li><li><p style=\"text-align: justify\">For frontend; React, Typescript, Material UI components, Vite</p></li><li><p style=\"text-align: justify\">DevOps; Azure Cloud, Azure DevOps, CI/CD pipelines, Docker</p></li></ul>",
+          "summary": "<p style=\"text-align: justify\">Consultant at BNIT</p><ul><li><p style=\"text-align: justify\">Involved in full stack development and also testing, DevOps, and architectural decision-making processes</p></li><li><p style=\"text-align: justify\">Working on healthcare systems, building a web portal for patients and doctors</p></li><li><p style=\"text-align: justify\">For backend; Java 17, Spring Boot 3, Spring Security 6, MySQL, JUnit, Testcontainers</p></li><li><p style=\"text-align: justify\">For frontend; React, Typescript, Material UI components, Vite</p></li><li><p style=\"text-align: justify\">DevOps; Azure Cloud, Azure DevOps, CI/CD pipelines, Docker</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -403,7 +403,7 @@
         {
           "id": "idwti8o0oq2dtyxedfz0qyoy",
           "visible": true,
-          "name": "Java 17",
+          "name": "Java",
           "description": "",
           "level": 0,
           "keywords": []
